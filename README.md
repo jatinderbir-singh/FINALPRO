@@ -2,7 +2,7 @@
 
 This is my Future ready talent Internship project....
 
-azure link:
+azure link: https://finalprojectjd.z13.web.core.windows.net/
 
 # Project Statement:
 
